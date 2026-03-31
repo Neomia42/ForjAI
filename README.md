@@ -1,2 +1,2 @@
 # ForjAI
-Forge your AI workflow — CLI framework for AI-assisted development
+Forj your AI workflow — CLI framework for AI-assisted development
